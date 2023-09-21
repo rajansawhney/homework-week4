@@ -10,5 +10,11 @@ applicable.
 Additionally, aim to create a user-friendly and robust calculator program that
 handles various scenarios gracefully, such as division by zero or invalid inputs. 
 
+NOTE:
+1. First, accept "operator" as char
+2. Then, accept 2 numbers "num1" and "num2" as doubles
+3. Compute "result"
+3. Display result using the following printf statement:
+   printf("Result: %.2lf %c %.2lf = %.2lf\n", num1, operator, num2, result);
 */
 
