@@ -1,7 +1,7 @@
 # ICS 212
 ## Homework - Week 4
 
-# Loops
+# Simple Calculator
 
 ### Assignment:
 - Update calculator.c following assignment description provided in HomeworkAssignment_Week4.pdf (uploaded on Laulima)
